@@ -4,11 +4,11 @@
 
 - 🌌 I'm currently make project [Cybertech project](https://discord.gg/cybertech)
 
-- 🔍 I’m currently learning **Javascript, Python, C#, PHP, HTML, Ruby**
+- 🔍 I’m currently learning: **Javascript, Python, C#, PHP, HTML, Ruby**
 
-- 💬 Contact Discord **@antidatabreach**
+- 💬 Contact Discord: **@antidatabreach**
 
-- 📫 How to reach me **cyb3rt3chrx@gmail.com**
+- 📫 How to reach me: **cyb3rt3chrx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
