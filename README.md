@@ -8,7 +8,7 @@
 
 - 💬 Contact Discord: **@antidatabreach**
 
-- 📫 How to reach me: **cyb3rt3chrx@gmail.com**
+- 📫 How to reach me: **antidatabreach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
